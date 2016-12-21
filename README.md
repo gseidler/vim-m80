@@ -6,3 +6,6 @@ This is a simple plugin to highlight 8080 and Z80 assembly code based on Microso
 [Vundle](https://github.com/gmarik/vundle):
 * ```Plugin 'oraculo666/vim-m80'```
 
+![MSX assembly code](https://i.sli.mg/YFRYLa.png)
+MSX Z80 assembly code (Molokai color scheme)
+
