@@ -11,7 +11,7 @@ endif
 setlocal colorcolumn=132
 
 " tabs and indenting
-setlocal tabstop = 8
+setlocal tabstop=8
 setlocal softtabstop=8
 setlocal shiftwidth=8
 
