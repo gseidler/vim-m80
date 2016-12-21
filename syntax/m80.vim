@@ -83,7 +83,7 @@ syn region m80String    start="'" skip="''" end="'" oneline
 " Comments
 syn match m80Comment    ";.*"
 
-}}}
+" }}}
 " Highlight definitions {{{
 hi def link m80Reg      Identifier
 hi def link m80Opcode   Statement
