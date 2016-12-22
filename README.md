@@ -6,7 +6,7 @@ This is a simple [Vim](http://www.vim.org) plugin to highlight 8080 and Z80 asse
 * [Vundle](https://github.com/gmarik/vundle)
     * add the following to your vundle config:
     * `Plugin 'oraculo666/vim-m80'`
-    * run `:PluginInstall` in Vim command mode:
+    * run `:PluginInstall` in Vim command mode.
 
 The plugin should automatically recognize '.mac' files.
 
