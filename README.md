@@ -20,7 +20,10 @@ The plugin should automatically recognize '.mac' files.
 * `fileencoding` set to `latin1`. Extended ASCII character encoding.
 * Tabs set at 8 spaces. Identifiers can be long but only the first 6 characters are significant.
 
-## Screenshot
+## Screenshots
 ![MSX assembly code](https://i.sli.mg/YFRYLa.png)
 *MSX Z80 assembly code (Molokai color scheme)*
+
+![Highlights](https://i.sli.mg/sF7OFh.png)
+*Some highlighting features*
 
