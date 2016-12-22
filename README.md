@@ -10,6 +10,16 @@ This is a simple [Vim](http://www.vim.org) plugin to highlight 8080 and Z80 asse
 
 The plugin should automatically recognize '.mac' files.
 
+## Mapping
+* Normal Mode
+    * `<leader>-` - Inserts a full line comment separator
+
+## Notes
+* The `colorcolumn` is set at 132 as a reminder since the real M-80 can't process lines longer than that.
+* Tabs set at 8 spaces. Identifiers can be long but only the first 6 characters are significant.
+* `fileformat` set to `dos`. M-80 doesn't support unix line endings.
+* `fileencoding` set to `latin1`. Extended ASCII character encoding.
+
 ## Screenshot
 ![MSX assembly code](https://i.sli.mg/YFRYLa.png)
 *MSX Z80 assembly code (Molokai color scheme)*
