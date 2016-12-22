@@ -21,9 +21,9 @@ The plugin should automatically recognize '.mac' files.
 * Tabs set at 8 spaces. Identifiers can be long but only the first 6 characters are significant.
 
 ## Screenshots
-![MSX assembly code](https://i.sli.mg/YFRYLa.png)
+![MSX assembly code](https://i.sli.mg/uUEIV6.png)
 _MSX Z80 assembly code (Molokai color scheme)_
 
-![Highlights](https://i.sli.mg/sF7OFh.png)
+![Highlights](https://i.sli.mg/Uxjals.png)
 _Some highlighting features_
 
