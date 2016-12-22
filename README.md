@@ -26,7 +26,7 @@ The plugin should automatically recognize '.mac' files.
 ## Screenshots
 
 #####_MSX Z80 assembly code (Molokai color scheme)_
-![MSX assembly code](https://i.sli.mg/uUEIV6.png)
+![MSX assembly code](https://i.sli.mg/miYc2l.png)
 
 #####_Some highlighting features_
 ![Highlights](https://i.sli.mg/Uxjals.png)
