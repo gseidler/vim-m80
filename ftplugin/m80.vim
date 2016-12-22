@@ -16,7 +16,7 @@ setlocal softtabstop=8
 setlocal shiftwidth=8
 
 " mapping
-inoremap    <Buffer>    <Leader>sc      :normal! I; <Esc>129a-<Esc>a<CR>
+nnoremap    <Buffer>    <Leader><Leader>-      :normal! I; <Esc>129a-<Esc>a<CR>
 
 " reading and writing files
 setlocal fileformat=dos
