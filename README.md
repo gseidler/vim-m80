@@ -11,7 +11,7 @@ This is a simple [Vim](http://www.vim.org) plugin to highlight 8080 and Z80 asse
 The plugin should automatically recognize '.mac' files.
 
 ## Mappings
-* Normal Mode
+* Insert Mode
     * `<leader>-` - Inserts a full line comment separator
 
 ## Notes
