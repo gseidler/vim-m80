@@ -5,16 +5,17 @@ This is a simple [Vim] plugin to highlight 8080 and Z80 assembly code based on M
 ## Install
 
 * [Vundle]
-    * add the following to your vundle config:
-    * `Plugin 'oraculo666/vim-m80'`
-    * run `:PluginInstall` in Vim command mode.
+	* add the following to your vundle config:
+	* `Plugin 'oraculo666/vim-m80'`
+	* run `:PluginInstall` in Vim command mode.
 
 The plugin should automatically recognize '.mac' files.
 
 ## Mappings
 
 * Insert Mode
-    * `<leader>-` - Inserts a full line comment separator
+	* `<leader>i-` - Inserts a full line comment separator below cursor.
+	* `<leader>a-` - Appends a full line comment separator below cursor and leaves cursor in insert mode below it.
 
 ## Notes
 
