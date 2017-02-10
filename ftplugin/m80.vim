@@ -16,7 +16,8 @@ setlocal softtabstop=8
 setlocal shiftwidth=8
 
 " mapping
-inoremap <buffer> <leader>- ; <esc>129a-<esc>a<cr>
+nnoremap <leader>i- o; <esc>129a-<esc>j0
+nnoremap <leader>a- o; <esc>129a-<esc>a<cr>
 
 " reading and writing files
 setlocal fileformat=dos
