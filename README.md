@@ -24,7 +24,12 @@ The plugin should automatically recognize '.mac' files.
 * `fileencoding` set to `latin1`. Extended ASCII character encoding.
 * Tabs set at 8 spaces. Identifiers can be long but only the first 6 characters are significant.
 
+## Screenshot
+
+![vim-m80][Screenshot]
+
 [Vim]: http://www.vim.org
 [MACRO-80]: http://www.msxarchive.nl/pub/msx/programming/asm/m80l80.txt
 [Z80]: https://www.scribd.com/document/282095677/um0080
 [Vundle]: https://github.com/gmarik/vundle
+[Screenshot]: http://i.imgur.com/Pl4YDBb.png
